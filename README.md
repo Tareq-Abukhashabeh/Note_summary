@@ -1,20 +1,43 @@
-# 🧠 AI Notes Summarizer
+🧠 AI Notes Summarizer
+A simple desktop app built with Python, PyQt5, and Hugging Face Transformers to extract and summarize notes from images, PDFs, and text files — powered by AI.
 
-A PyQt5 desktop application that uses AI to extract and summarize text from PDFs, images, and plain text files.
+🚀 Features
+✅ Extract text from:
 
-## ✨ Features
-- 📄 Load PDF, image, or text files
-- 🤖 Extract text using OCR or direct parsing
-- 📝 Summarize long documents using a pretrained transformer model
-- 🎨 Dark/Light theme toggle
-- 🔠 Adjustable font size
+PDF files
 
-## 📸 Screenshots
-(Add screenshots or a GIF here)
+Images (using OCR)
 
-## 🚀 Installation
+Plain .txt files
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/Tareq-Abukhashabeh/Note_summary.git
-   cd notes-Summary
+✅ Generate smart summaries with HuggingFace Transformers (DistilBART)
+
+✅ Toggle between Dark/Light themes 🌗
+
+✅ Change font size for better readability 🔍
+
+✅ Intuitive UI with loading indicator
+
+✅ Fully offline and beginner-friendly!
+
+📸 Screenshots
+
+
+🛠️ Built With
+PyQt5 – GUI framework
+
+Tesseract OCR – Image text extraction
+
+pdfplumber – PDF text parsing
+
+OpenCV – Image reading and preprocessing
+
+HuggingFace Transformers – AI-powered text summarization (DistilBART)
+
+📦 Download the App
+🪟 Windows only for now
+
+👉 Download EXE from Google Drive
+https://drive.google.com/file/d/1o0HAG7ZLanr_REdv6o0EQNuGxqxrVoMR/view?usp=drive_link
+
+No installation needed. Just download and run.
