@@ -16,5 +16,5 @@ A PyQt5 desktop application that uses AI to extract and summarize text from PDFs
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/notes-Summary.git
+   git clone https://github.com/Tareq-Abukhashabeh/Note_summary.git
    cd notes-Summary
